@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tran Hoang Hai 👋</h1>
-<h3 align="center">Web3 AI Engineer | Computer Science Student @ UIT VNUHCM</h3>
+<h3 align="center">Computer Science Student @ UIT VNUHCM</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/haith26" target="_blank">
